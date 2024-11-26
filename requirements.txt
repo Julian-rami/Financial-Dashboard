@@ -5,3 +5,5 @@ streamlit
 datetime
 scipy
 statsmodels
+yfinance
+sklearn
