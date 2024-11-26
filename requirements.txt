@@ -6,4 +6,4 @@ datetime
 scipy
 statsmodels
 yfinance
-sklearn
+scikit-learn
